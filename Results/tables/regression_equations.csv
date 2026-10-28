@@ -1,0 +1,7 @@
+﻿disease,linear_equation,poly_equation,R2_linear,R2_poly,conclusion
+Schizophrenia,y = 0.2096 + 0.0226x,y = 0.1899 + 0.0422x + -0.0039x²,0.405,0.415,Nearly linear (slight curve)
+Depressive,y = 4.3679 + -0.2364x,y = 5.3354 + -1.1974x + 0.1911x²,0.078,0.119,U-shape
+Anxiety,y = 3.0489 + 0.4285x,y = 3.2225 + 0.2560x + 0.0343x²,0.199,0.2,Linear
+Bipolar,y = 0.4244 + 0.0911x,y = 0.5164 + -0.0003x + 0.0182x²,0.193,0.199,Linear
+Eating,y = -0.0376 + 0.0954x,y = 0.1432 + -0.0843x + 0.0357x²,0.583,0.647,Accelerating
+total_mental,y = 8.0131 + 0.4012x,y = 9.4074 + -0.9838x + 0.2754x²,0.069,0.095,Accelerating
